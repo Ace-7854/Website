@@ -1,0 +1,47 @@
+.NavigationBar{
+    height: 50px;
+    color: red;
+    background-color: darkred;
+}
+.Buttons{
+    justify-content: center;
+    text-align: center;
+}
+
+.figure1Caption{
+    color: white;
+}
+
+.Logo{
+    width:88px;
+    height: 31px;
+}
+
+.Text{
+    text-align: center;
+    align-content: center;
+    text-decoration: underline;
+}
+
+.SubHeader{
+    text-decoration: underline;
+    text-emphasis-style: bold;
+}
+
+#statuscafe {
+    padding: .5em;
+    background-color: rgba(240, 255, 255, 0);
+    border: 2px solid rgb(112, 25, 25);
+    color:red;
+}
+
+#statuscafe-username {
+    margin-bottom: .5em;
+    color: red;
+    text-align: center;
+}
+
+#statuscafe-content {
+    text-align: center;
+    margin: 0 1em 0.5em 1em;
+}
